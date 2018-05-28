@@ -20,14 +20,6 @@ allowing you to focus on the few items that matter the most.
 
 Wekan has real-time user interface. Not all features are implemented.
 
-[Features][features]
-
-Wekan supports many [Platforms][platforms], and plan is to add more.
-
-[Integrations][integrations]
-
-[Team](https://github.com/wekan/wekan/wiki/Team)
-
 You don’t have to trust us with your data and can install Wekan on your own
 computer or server. In fact we encourage you to do that by providing
 one-click installation on various platforms.
