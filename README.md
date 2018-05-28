@@ -5,8 +5,6 @@
 [![Wekan Vanila Chat][vanila_badge]][vanila_chat] 
 [![IRC #wekan](https://img.shields.io/badge/IRC%20%23wekan-on%20Freenode-brightgreen.svg "Freenode IRC")](http://webchat.freenode.net?channels=%23wekan&uio=d4)
 
-[![Contributors](https://img.shields.io/github/contributors/wekan/wekan.svg "Contributors")](https://github.com/wekan/wekan/graphs/contributors)
-
 Please read [FAQ](https://github.com/wekan/wekan.hx/wiki/FAQ).
 
 Wekan is an completely [Open Source][open_source] and [Free software][free_software]
