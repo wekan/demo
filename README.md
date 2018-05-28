@@ -29,7 +29,7 @@ one-click installation on various platforms.
 ## License
 
 Wekan is released under the very permissive [MIT license](LICENSE), and made
-with [Meteor](https://www.meteor.com).
+with [Haxe](https://haxe.org).
 
 [platforms]: https://github.com/wekan/wekan/wiki/Platforms
 [translate_wekan]: https://www.transifex.com/wekan/wekan/
