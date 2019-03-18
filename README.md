@@ -1,4 +1,4 @@
-# Wekan in Haxe
+# Wekan PWA
 
 [![Translate Wekan at Transifex](https://img.shields.io/badge/Translate%20Wekan-at%20Transifex-brightgreen.svg "Freenode IRC")](https://transifex.com/wekan/wekan)
 
@@ -24,12 +24,11 @@ one-click installation on various platforms.
 
 ## Roadmap
 
-[Roadmap](https://github.com/wekan/wekan.hx/wiki/Roadmap)
+[Roadmap](https://github.com/wekan/wekan.hx/wiki/PWA)
 
 ## License
 
-Wekan is released under the very permissive [MIT license](LICENSE), and made
-with [Haxe](https://haxe.org).
+Wekan is released under the very permissive [MIT license](LICENSE).
 
 [platforms]: https://github.com/wekan/wekan/wiki/Platforms
 [translate_wekan]: https://www.transifex.com/wekan/wekan/
