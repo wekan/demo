@@ -35,4 +35,4 @@ Wekan is released under the very permissive [MIT license](LICENSE).
 [open_source]: https://en.wikipedia.org/wiki/Open-source_software
 [free_software]: https://en.wikipedia.org/wiki/Free_software
 [vanila_badge]: https://vanila.io/img/join-chat-button2.png
-[vanila_chat]: https://chat.vanila.io/channel/wekan
+[vanila_chat]: https://community.vanila.io
