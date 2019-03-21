@@ -5,14 +5,19 @@
   "lang": "en-US",
   "icons": [
     {
-      "src": "/wekan-150.png",
+      "src": "/img/wekan-192.png",
+      "type": "image/png",
+      "sizes": "191x192"
+    },
+    {
+      "src": "/img/wekan-150.png",
       "type": "image/png",
       "sizes": "150x150"
     },
     {
-      "src": "/wekan-150.svg",
-      "type": "image/svg+xml",
-      "sizes": "150x150"
+      "src": "/img/wekan-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "display": "standalone",
