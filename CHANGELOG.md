@@ -7,6 +7,8 @@ This release adds the following improvements:
 - [Added some required files from php prototype and meteor Wekan to Wekan.hx
   prototype](https://github.com/wekan/wekan/commit/12017ae6097adaa9825827ef0b5f3e55bf643fee).
   Thanks to xet7.
+- [Added more tests](https://github.com/wekan/wekan/commit/facc632fd994db35631b86e78fe9bb8a47d60550).
+  Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
 
