@@ -1,8 +1,11 @@
 # Upcoming Wekan.hx release
 
-This release moves some file locations:
+This release adds the following improvements:
 
 - [Moved static version to tests/static](https://github.com/wekan/wekan/commit/68015a67380927ac0db05abcb5a5c56abe268bda).
+  Thanks to xet7.
+- [Added some required files from php prototype and meteor Wekan to Wekan.hx
+  prototype](https://github.com/wekan/wekan/commit/12017ae6097adaa9825827ef0b5f3e55bf643fee).
   Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
