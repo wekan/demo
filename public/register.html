@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Wekan</title>
+    <meta name="viewport" content="maximum-scale=1.0,width=device-width,initial-scale=1.0,user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="Wekan">
+    <meta name="application-name" content="Wekan">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+    <section class="auth-layout">
+        <h1 class="at-form-landing-logo"></h1><img src="wekan-logo.svg" alt="" width="300" height="auto"><br>
+        <section class="auth-dialog">
+            <div class="at-form">
+                <div class="at-title">
+                    <h3>Luo tili</h3>
+                </div>
+                <div class="at-pwd-form">
+                    <div class="at-form-authentication" style="display: none;"><label>Kirjautumistapa</label>
+                        <select class="select-authentication">
+                            <option value="password">Salasana</option>
+                        </select>
+                    </div>
+                    <form role="form" id="at-pwd-form" novalidate="" action="#" method="POST">
+                        <div class="at-input">
+                            <label for="at-field-username">
+                                Käyttäjätunnus
+                            </label>
+                            <input type="text" id="at-field-username" name="at-field-username" placeholder="Username" autocapitalize="none" autocorrect="off">
+                        </div>
+                        <div class="at-input">
+                            <label for="at-field-email">
+                                Email
+                            </label>
+                            <input type="email" id="at-field-email" name="at-field-email" placeholder="Email" autocapitalize="none" autocorrect="off">
+                        </div>
+                        <div class="at-input">
+                            <label for="at-field-password">
+                                Salasana
+                            </label>
+                            <input type="password" id="at-field-password" name="at-field-password" placeholder="Salasana" autocapitalize="none" autocorrect="off">
+                        </div>
+                        <div class="at-input" id="invitationcode" style="display: none;"><label for="at-field-code">Kutsukoodi</label>
+                            <input id="at-field-invitationcode" type="text" name="at-field-invitationcode" placeholder="Kutsukoodi">
+                        </div>
+                        <button type="submit" class="at-btn submit" id="at-btn">
+                            Rekisteröidy
+                        </button>
+                    </form>
+                </div>
+                <div class="at-signin-link">
+                    <p>
+                        Jos sinulla on jo tili
+                        <a href="/sign-in" id="at-signIn" class="at-link at-signin">kirjaudu sisään</a>
+                    </p>
+                </div>
+            </div>
+            <!-- language selector here-->
+
+        </section>
+</body>
