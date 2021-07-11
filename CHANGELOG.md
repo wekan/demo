@@ -17,6 +17,8 @@ This release adds the following improvements:
   Thanks to xet7.
 - [Added lua to hello tests](https://github.com/wekan/hx/commit/33142f53ad89198fbb200af3893cbbee9aa630b6).
   Thanks to xet7.
+- [Added jvm to hello tests](https://github.com/wekan/hx/commit/53b55bf953e975b5c417bc62b7a0c796a3531247).
+  Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
 
