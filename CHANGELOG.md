@@ -13,6 +13,8 @@ This release adds the following improvements:
   Thanks to xet7.
 - [Added tinkweb tests for Node.js and PHP](https://github.com/wekan/hx/commit/fe2984ae9b86b3dec00218ce633da41ab9424e25).
   Thanks to xet7.
+- [More tinkweb and hello tests with Haxe]((https://github.com/wekan/hx/commit/adf692dabe407ad9b3cbfa630226ee7e36741656).
+  Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
 
