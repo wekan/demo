@@ -1,1 +1,1 @@
-mono cs/bin/Wekan.exe
+mono .build/cs/bin/Wekan.exe

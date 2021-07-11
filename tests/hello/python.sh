@@ -1,1 +1,1 @@
-python3 python/wekan.py
+python3 .build/python/wekan.py

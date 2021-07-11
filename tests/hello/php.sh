@@ -1,1 +1,1 @@
-php -S localhost:8000 -t php/
+php -S localhost:8000 -t .build/php/
