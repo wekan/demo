@@ -9,6 +9,8 @@ This release adds the following improvements:
   Thanks to xet7.
 - [Added more tests](https://github.com/wekan/wekan/commit/facc632fd994db35631b86e78fe9bb8a47d60550).
   Thanks to xet7.
+- [Added scripts to install haxelibs](https://github.com/wekan/wekan/commit/6a5488606c961fdaeb5a7aaf09f9d62f47cfdf59).
+  Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
 
