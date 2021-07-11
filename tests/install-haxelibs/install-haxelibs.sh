@@ -18,6 +18,9 @@ haxelib git mongomod https://bitbucket.org/yar3333/haxe-mongomod --skip-dependen
 haxelib git mongomod https://github.com/yar3333/haxe-mongomod --skip-dependencies
 haxelib git refactor https://github.com/yar3333/haxe-refactor --skip-dependencies
 
+# HaxeLink/C compiler
+#haxelib install hlc-compiler
+
 # Tink
 haxelib git tink_anon https://github.com/haxetink/tink_anon --skip-dependencies
 haxelib git tink_await https://github.com/haxetink/tink_await --skip-dependencies
