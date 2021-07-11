@@ -19,6 +19,8 @@ This release adds the following improvements:
   Thanks to xet7.
 - [Added jvm to hello tests](https://github.com/wekan/hx/commit/53b55bf953e975b5c417bc62b7a0c796a3531247).
   Thanks to xet7.
+- [Added HashLink. Tried to add also HashLink/C, but did not get that working](https://github.com/wekan/hx/commit/bcd6b721beeb56dcf74a7416c5449902887ceba5).
+  Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
 
