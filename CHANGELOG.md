@@ -2,14 +2,16 @@
 
 This release adds the following improvements:
 
-- [Moved static version to tests/static](https://github.com/wekan/wekan/commit/68015a67380927ac0db05abcb5a5c56abe268bda).
+- [Moved static version to tests/static](https://github.com/wekan/hx/commit/68015a67380927ac0db05abcb5a5c56abe268bda).
   Thanks to xet7.
 - [Added some required files from php prototype and meteor Wekan to Wekan.hx
-  prototype](https://github.com/wekan/wekan/commit/12017ae6097adaa9825827ef0b5f3e55bf643fee).
+  prototype](https://github.com/wekan/hx/commit/12017ae6097adaa9825827ef0b5f3e55bf643fee).
   Thanks to xet7.
-- [Added more tests](https://github.com/wekan/wekan/commit/facc632fd994db35631b86e78fe9bb8a47d60550).
+- [Added more tests](https://github.com/wekan/hx/commit/facc632fd994db35631b86e78fe9bb8a47d60550).
   Thanks to xet7.
-- [Added scripts to install haxelibs](https://github.com/wekan/wekan/commit/6a5488606c961fdaeb5a7aaf09f9d62f47cfdf59).
+- [Added scripts to install haxelibs](https://github.com/wekan/hx/commit/6a5488606c961fdaeb5a7aaf09f9d62f47cfdf59).
+  Thanks to xet7.
+- [Added tinkweb tests for Node.js and PHP](https://github.com/wekan/hx/commit/fe2984ae9b86b3dec00218ce633da41ab9424e25).
   Thanks to xet7.
 
 Thanks to above GitHub users for their contributions and translators for their translations.
