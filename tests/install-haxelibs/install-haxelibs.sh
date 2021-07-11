@@ -7,6 +7,9 @@ haxelib git hscript https://github.com/HaxeFoundation/hscript --skip-dependencie
 haxelib git html-entities https://github.com/back2dos/html-entities --skip-dependencies
 haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp --skip-dependencies
 haxelib git http-status https://github.com/kevinresol/http-status --skip-dependencies
+haxelib git hxcs https://github.com/HaxeFoundation/hxcs --skip-dependencies
+haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp --skip-dependencies
+haxelib git hxjava https://github.com/HaxeFoundation/hxjava --skip-dependencies
 haxelib git hxnodejs https://github.com/HaxeFoundation/hxnodejs --skip-dependencies
 haxelib git hxWidgets https://github.com/haxeui/hxwidgets --skip-dependencies
 haxelib git mime https://github.com/benmerckx/mime --skip-dependencies
@@ -14,6 +17,8 @@ haxelib git mongodb http://github.com/MattTuttle/mongo-haxe-driver --skip-depend
 haxelib git mongomod https://bitbucket.org/yar3333/haxe-mongomod --skip-dependencies
 haxelib git mongomod https://github.com/yar3333/haxe-mongomod --skip-dependencies
 haxelib git refactor https://github.com/yar3333/haxe-refactor --skip-dependencies
+
+# Tink
 haxelib git tink_anon https://github.com/haxetink/tink_anon --skip-dependencies
 haxelib git tink_await https://github.com/haxetink/tink_await --skip-dependencies
 haxelib git tink_spatial https://github.com/haxetink/tink_spatial --skip-dependencies

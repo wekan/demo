@@ -1,2 +1,2 @@
-tests/tinkweb/php/*
-tests/tinkweb/node/*
+.build/*
+.build*
