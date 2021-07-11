@@ -1,4 +1,4 @@
-#../install-haxelibs/install-haxelibs.sh
+../install-haxelibs/install-haxelibs.sh
 sudo apt -y install build-essential mono-complete openjdk-11-jdk lua5.3 liblua5.3-dev luarocks
 sudo luarocks install lrexlib-pcre
 sudo luarocks install environ
