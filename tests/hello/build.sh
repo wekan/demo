@@ -1,6 +1,6 @@
 rm -rf .build
 echo "Creating directory .build:"
-mkdir .build/node .build/php .build/python .build/cs .build/java .build/cpp
+mkdir .build/node .build/php .build/python .build/cs .build/java .build/cpp .build/lua
 
 echo "Building node:"
 haxe -js .build/node/wekan.js -lib hxnodejs -main Wekan
@@ -23,3 +23,5 @@ haxe -java .build/java -main Wekan
 echo "Building cpp:"
 haxe -cpp .build/cpp -main Wekan
 
+echo "Building lua:"
+haxe -lua .build/lua/wekan.lua -main Wekan
